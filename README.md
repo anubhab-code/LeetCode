@@ -24,20 +24,18 @@
 | **18**  | [4Sum](https://leetcode.com/problems/4sum/ "4Sum")  | [18. 4Sum.py](https://github.com/anubhab-code/LeetCode/blob/master/18.%204Sum.py "18. 4Sum.py")  |
 | **19**  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/ "Remove Nth Node From End of List")  | [19. Remove Nth Node From End of List.py](https://github.com/anubhab-code/LeetCode/blob/master/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.py "19. Remove Nth Node From End of List.py")  |
 | **20**  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/ "Valid Parentheses")  | [20. Valid Parentheses.py](https://github.com/anubhab-code/LeetCode/blob/master/20.%20Valid%20Parentheses.py "20. Valid Parentheses.py")  |
-| **21**  |   |   |
-| **22**  |   |   |
-| **23**  |   |   |
-| **24**  |   |   |
-| **25**  |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| **21**  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/ "Merge Two Sorted Lists")  | [21. Merge Two Sorted Lists.py](https://github.com/anubhab-code/LeetCode/blob/master/21.%20Merge%20Two%20Sorted%20Lists.py "21. Merge Two Sorted Lists.py")  |
+| **22**  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/ "Generate Parentheses")  | [22. Generate Parentheses.py](https://github.com/anubhab-code/LeetCode/blob/master/22.%20Generate%20Parentheses.py "22. Generate Parentheses.py")  |
+| **24**  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/ "Swap Nodes in Pairs")  | [24. Swap Nodes in Pairs.py](https://github.com/anubhab-code/LeetCode/blob/master/24.%20Swap%20Nodes%20in%20Pairs.py "24. Swap Nodes in Pairs.py")  |
+| **25**  | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/ "Reverse Nodes in k-Group")  | [25. Reverse Nodes in k-Group.py](https://github.com/anubhab-code/LeetCode/blob/master/25.%20Reverse%20Nodes%20in%20k-Group.py "25. Reverse Nodes in k-Group.py")  |
+| **26**  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/ "Remove Duplicates from Sorted Array")  | [26. Remove Duplicates from Sorted Array.py](https://github.com/anubhab-code/LeetCode/blob/master/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py "26. Remove Duplicates from Sorted Array.py")  |
+| **29**  | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/ "Divide Two Integers")  | [29. Divide Two Integers.py](https://github.com/anubhab-code/LeetCode/blob/master/29.%20Divide%20Two%20Integers.py "29. Divide Two Integers.py")  |
+| **31**  | [Next Permutation](https://leetcode.com/problems/next-permutation/ "Next Permutation")  | [31. Next Permutation.py](https://github.com/anubhab-code/LeetCode/blob/master/31.%20Next%20Permutation.py "31. Next Permutation.py")  |
+| **32**  | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/ "Longest Valid Parentheses")  | [32. Longest Valid Parentheses.py](https://github.com/anubhab-code/LeetCode/blob/master/32.%20Longest%20Valid%20Parentheses.py "32. Longest Valid Parentheses.py")  |
+| **33**  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/ "Search in Rotated Sorted Array")  | [33. Search in Rotated Sorted Array.py](https://github.com/anubhab-code/LeetCode/blob/master/33.%20Search%20in%20Rotated%20Sorted%20Array.py "33. Search in Rotated Sorted Array.py")  |
+| **34**  | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ "Find First and Last Position of Element in Sorted Array")  | [34. Find First and Last Position of Element in Sorted Array.py](https://github.com/anubhab-code/LeetCode/blob/master/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py "34. Find First and Last Position of Element in Sorted Array.py")  |
+| **35**  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/ "Search Insert Position")  | [35. Search Insert Position.py](https://github.com/anubhab-code/LeetCode/blob/master/35.%20Search%20Insert%20Position.py "35. Search Insert Position.py")  |
+| **36**  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/ "Valid Sudoku")  | [36. Valid Sudoku.py](https://github.com/anubhab-code/LeetCode/blob/master/36.%20Valid%20Sudoku.py "36. Valid Sudoku.py")  |
 |   |   |   |
 |   |   |   |
 |   |   |   |

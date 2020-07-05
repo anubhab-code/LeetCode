@@ -41,9 +41,18 @@
 | **40**  | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/ "Combination Sum II")  | [40. Combination Sum II.py](https://github.com/anubhab-code/LeetCode/blob/master/40.%20Combination%20Sum%20II.py "40. Combination Sum II.py")  |
 | **41**  | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/ "First Missing Positive")  | [41. First Missing Positive.py](https://github.com/anubhab-code/LeetCode/blob/master/41.%20First%20Missing%20Positive.py "41. First Missing Positive.py")  |
 | **42**  | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/ "Trapping Rain Water")  |   |
-| ****  |   |   |
-| ****  |   |   |
-| ****  |   |   |
+| **44**  | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/ "Wildcard Matching")  |   |
+| **45**  | [Jump Game II](https://leetcode.com/problems/jump-game-ii/ "Jump Game II")  |   |
+| **46**  | [Permutations](https://leetcode.com/problems/permutations/ "Permutations")  |   |
+| **47**  | [Permutations II](https://leetcode.com/problems/permutations-ii/ "Permutations II")  |   |
+| **48**  | [Rotate Image](https://leetcode.com/problems/rotate-image/ "Rotate Image")  |   |
+| **49**  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/ "Group Anagrams")  |   |
+| **51**  | [N-Queens](https://leetcode.com/problems/n-queens/ "N-Queens")  |   |
+| **52**  | [N-Queens II](https://leetcode.com/problems/n-queens-ii/ "N-Queens II")  |   |
+| **53**  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/ "Maximum Subarray")  |   |
+| **54**  | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/ "Spiral Matrix")  |   |
+| **55**  | [Jump Game](https://leetcode.com/problems/jump-game/ "Jump Game")  |   |
+| **56**  | [Merge Intervals](https://leetcode.com/problems/merge-intervals/ "Merge Intervals")  |   |
 | ****  |   |   |
 | ****  |   |   |
 

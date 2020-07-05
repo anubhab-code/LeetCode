@@ -36,13 +36,14 @@
 | **34**  | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ "Find First and Last Position of Element in Sorted Array")  | [34. Find First and Last Position of Element in Sorted Array.py](https://github.com/anubhab-code/LeetCode/blob/master/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py "34. Find First and Last Position of Element in Sorted Array.py")  |
 | **35**  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/ "Search Insert Position")  | [35. Search Insert Position.py](https://github.com/anubhab-code/LeetCode/blob/master/35.%20Search%20Insert%20Position.py "35. Search Insert Position.py")  |
 | **36**  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/ "Valid Sudoku")  | [36. Valid Sudoku.py](https://github.com/anubhab-code/LeetCode/blob/master/36.%20Valid%20Sudoku.py "36. Valid Sudoku.py")  |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| **38**  | [Count and Say](https://leetcode.com/problems/count-and-say/ "Count and Say")  | [38. Count and Say.py](https://github.com/anubhab-code/LeetCode/blob/master/38.%20Count%20and%20Say.py "38. Count and Say.py")  |
+| **39**  | [Combination Sum](https://leetcode.com/problems/combination-sum/ "Combination Sum")  | [39. Combination Sum.py](https://github.com/anubhab-code/LeetCode/blob/master/39.%20Combination%20Sum.py "39. Combination Sum.py")  |
+| **40**  | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/ "Combination Sum II")  | [40. Combination Sum II.py](https://github.com/anubhab-code/LeetCode/blob/master/40.%20Combination%20Sum%20II.py "40. Combination Sum II.py")  |
+| **41**  | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/ "First Missing Positive")  | [41. First Missing Positive.py](https://github.com/anubhab-code/LeetCode/blob/master/41.%20First%20Missing%20Positive.py "41. First Missing Positive.py")  |
+| **42**  | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/ "Trapping Rain Water")  |   |
+| ****  |   |   |
+| ****  |   |   |
+| ****  |   |   |
+| ****  |   |   |
+| ****  |   |   |
+
